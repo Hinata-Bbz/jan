@@ -1,7 +1,74 @@
-....
-
-
-        𝐚dd 𝐲𝐨𝐮𝐫 𝐜𝟑𝐜 𝐅𝐛𝐬𝐭𝐚𝐭𝐞 𝐜𝐨𝐨𝐤𝐢𝐞 🍪
-
-
-.....
+[
+    {
+        "key": "datr",
+        "value": "EFE8aIXUcyy00nmsUD3mRG_I",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-06-01T13:11:27.076Z",
+        "lastAccessed": "2025-06-01T13:11:27.077Z"
+    },
+    {
+        "key": "sb",
+        "value": "EFE8aGyTYNq2HlL9UJjvR0Hl",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-06-01T13:11:27.077Z",
+        "lastAccessed": "2025-06-01T13:11:27.077Z"
+    },
+    {
+        "key": "dpr",
+        "value": "1.25",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-06-01T13:11:27.077Z",
+        "lastAccessed": "2025-06-01T13:11:27.077Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61576827876421",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-06-01T13:11:27.077Z",
+        "lastAccessed": "2025-06-01T13:11:27.077Z"
+    },
+    {
+        "key": "fr",
+        "value": "0oxAJUM3NY7umsdxu.AWcKoIdL1MrpMywuCL17xS_t44WsfA8xTBzO7Fd03eA5n0M5Gqg.BoPFFh..AAA.0.0.BoPFFh.AWfPfXzLIvRw7zc-QHOa5g-JWTk",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-06-01T13:11:27.077Z",
+        "lastAccessed": "2025-06-01T13:11:27.077Z"
+    },
+    {
+        "key": "xs",
+        "value": "44%3ApZn1bBkzWbfS8w%3A2%3A1748783458%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-06-01T13:11:27.077Z",
+        "lastAccessed": "2025-06-01T13:11:27.077Z"
+    },
+    {
+        "key": "wd",
+        "value": "1060x730",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-06-01T13:11:27.077Z",
+        "lastAccessed": "2025-06-01T13:11:27.077Z"
+    },
+    {
+        "key": "presence",
+        "value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1748783475246%2C%22v%22%3A1%7D",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-06-01T13:11:27.077Z",
+        "lastAccessed": "2025-06-01T13:11:27.077Z"
+    }
+]
